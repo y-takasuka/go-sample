@@ -1,4 +1,4 @@
 go-sample
 =========
 
-Test golang
+Sample gplang programing with walk(for Windows GUI library)
